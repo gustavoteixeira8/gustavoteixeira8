@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoteixeira8" alt="gustavoteixeira8" /> </p>
 
-- 🌱 I’m currently learning JavaScript, SQL, Node.JS, Data structure
+- 🌱 I’m currently learning JavaScript and TypeScript, SQL, Node.JS, Data structure
 - 📫 How to reach me gustavofigueiredoteixeira8@gmail.com
 
 <p align="left">
