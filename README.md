@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning JavaScript and TypeScript, SQL, Node.JS, Data structure
 - 📫 How to reach me gustavofigueiredoteixeira8@gmail.com
-- A blog I made to train my skills => <a href="https://gustavo.gq" title="A blog I made to train my skills" target="_blank">gustavo.gq</a>
+- A blog I made to train my skills => <a href="https://gustavo.gq"  target="_blank">https://gustavo.gq</a>
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=gustavoteixeira8&show_icons=true&&theme=dark" alt="gustavoteixeira8"/> 
