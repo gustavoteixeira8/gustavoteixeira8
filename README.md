@@ -26,9 +26,5 @@
   <a href="mailto:gustavofigueiredoteixeira8@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gustavo-GMAIL">
   </a>
-  
-  <a href="https://discordapp.com/users/358402307898998804" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Gustavo-DISCORD">
-  </a>
 </div>
  
